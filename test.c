@@ -34,10 +34,6 @@ int main() {
     fclose(fp);
 
 
-    SquareLattice *lat = create_lattice(Lx, Ly, true);
-    
-    ising *model = define_model(1, B, T, lat);
-
 
 }
 
