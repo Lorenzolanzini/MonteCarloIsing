@@ -1,1 +1,3 @@
-# Monte Carlo Simulation of the Ising Model
+# IN104: Monte Carlo Simulation of the Ising Model
+
+Welcome to the project "Monte Carlo Simulation of the Ising Model". 
